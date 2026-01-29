@@ -23,11 +23,6 @@
  ![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)  
 
 
-## _Git Status_
-
- ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dltowls000&show_icons=true&theme=dark#gh-dark-mode-only)  
- 
-
 ## _Contact_
 
 <img src="https://img.shields.io/badge/dltowls000@yu.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white">
