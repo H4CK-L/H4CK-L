@@ -47,4 +47,4 @@ August 17 ~ 18, 2024: 29s HackingCamp
 February 10, 2025: achieved 1th place in Security One Forum Absolute Evaluation CTF
 
 ## _KVEs_
-2025-2025-0935
+KVE-2025-0935
